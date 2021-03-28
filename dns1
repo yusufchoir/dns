@@ -38,8 +38,8 @@ ff02::3 ip6-allhosts
 # http://stevenblack.com
 
 0.0.0.0 n2019cov.000webhostapp.com
-10.10.11.210 detik.com
-10.10.11.11 kompas.com
+10.10.11.210 www.detik.com
+10.10.11.11 www.kompas.com
 
 # End yoyo.org
 
