@@ -38,10 +38,10 @@ ff02::3 ip6-allhosts
 # http://stevenblack.com
 
 0.0.0.0 n2019cov.000webhostapp.com
-10.10.11.11 www.koneksiku.net
-10.10.11.11 koneksiku.net
-10.10.11.11 www.fontinetsky.com
-10.10.11.11 fontinetsky.com
+0.0.0.0 www.koneksiku.net
+0.0.0.0 koneksiku.net
+0.0.0.0 www.fontinetsky.com
+0.0.0.0 fontinetsky.com
 
 # End yoyo.org
 
